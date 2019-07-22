@@ -1,10 +1,8 @@
 # USNCCM15 Short Course: Recent-Advances-in-Physics-Informed-Deep-Learning
 
 Instructors:
-
-Dr. Paris Perdikaris, University of Pennsylvania
-
-Dr. Maziar Raissi, Brown University
+- Dr. Paris Perdikaris (University of Pennsylvania)
+- Dr. Maziar Raissi (NVIDIA)
 
 Overview:
 
