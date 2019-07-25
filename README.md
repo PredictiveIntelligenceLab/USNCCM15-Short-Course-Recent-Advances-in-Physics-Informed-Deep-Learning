@@ -1,3 +1,5 @@
+![](./schedule.png)
+
 # USNCCM15 Short Course: Recent-Advances-in-Physics-Informed-Deep-Learning
 
 Instructors:
