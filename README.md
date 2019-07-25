@@ -21,3 +21,7 @@ To follow the hands-on tutorials, please make sure you have the following softwa
 - [Jupyter notebook](http://jupyter.org/). You will need this in order to follow some of the in-class tutorials.
 - [Git](https://git-scm.com/downloads). You will need this in order to download and stay in sync with the latest code we will develop in class.
 
+# A primer on Tensorflow
+
+To best follow the hands-on tutorials, attendeed are expected to be familiar with basic concepts in Tensorflow programming (e.g., computational graphs, placeholders, automatic differentiation). New users are encouraged to study the tutorials presented [here](https://github.com/aymericdamien/TensorFlow-Examples).
+
