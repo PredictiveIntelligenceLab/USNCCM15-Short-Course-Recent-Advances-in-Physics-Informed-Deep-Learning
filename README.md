@@ -1,10 +1,10 @@
 ![](./images/schedule.png)
 
-# USNCCM15 Short Course: Recent-Advances-in-Physics-Informed-Deep-Learning
+# USNCCM15 Short Course: Recent-Advances-in-Physics-Informed-Deep-Learning ([Link](http://15.usnccm.org/sc15-009))
 
 ### Instructors:
-- Dr. Paris Perdikaris (University of Pennsylvania)
-- Dr. Maziar Raissi (NVIDIA)
+- [Dr. Paris Perdikaris](https://www.seas.upenn.edu/directory/profile.php?ID=237) (University of Pennsylvania)
+- [Dr. Maziar Raissi](http://www.dam.brown.edu/people/mraissi/) (NVIDIA)
 
 ### Overview:
 
